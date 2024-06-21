@@ -13,9 +13,6 @@ main{
     padding: 10px;
     margin: 20px;
     box-shadow: 3px 3px 5px #00000046;
-    position: absolute;
-    top: 50%;
-    right: 50%;
-    transform: translate(50%, 5%);
+    margin: auto;
     
 }
