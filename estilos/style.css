@@ -16,3 +16,10 @@ main{
     margin: auto;
     
 }
+img{
+    width: 20%;
+    
+}
+div.image{
+    text-align: center;
+}
