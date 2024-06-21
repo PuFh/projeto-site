@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: rgb(18, 26, 32);
+    position: relative;
+}
+main{
+    background-color: white;
+    width: 500px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 3px 3px 5px #00000046;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, 5%);
+    
+}
